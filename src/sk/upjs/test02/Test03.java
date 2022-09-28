@@ -6,6 +6,7 @@ public class Test03 {
 		// TODO Auto-generated method stub
 		//nicol pridala komentar
 		//dalsia zmena od nicol
+		//hahaha
 	}
 
 }
